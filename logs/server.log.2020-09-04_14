@@ -1,0 +1,40 @@
+2020-09-04 14:01:44,326 CRITICAL config_server_log.py Критическая ошибка
+2020-09-04 14:01:44,327 ERROR config_server_log.py Ошибка
+2020-09-04 14:01:44,327 DEBUG config_server_log.py Отладочная информация
+2020-09-04 14:01:44,327 INFO config_server_log.py Информационное сообщение
+2020-09-04 14:10:08,633 INFO server.py Установлено соедение с ПК ('127.0.0.1', 60982)
+2020-09-04 14:10:08,642 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599203408.633394, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:08,642 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599203408.633394, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:08,651 DEBUG decors.py Была вызвана функция process_messages c параметрами ({'action': 'presence', 'time': 1599203408.633394, 'user': {'account_name': 'Client'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-09-04 14:10:08,651 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-04 14:10:08,651 DEBUG server.py Соединение с клиентом ('127.0.0.1', 60982) закрывается.
+2020-09-04 14:10:13,937 INFO server.py Установлено соедение с ПК ('127.0.0.1', 60994)
+2020-09-04 14:10:13,946 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599203413.9365156, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:13,946 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599203413.9365156, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:13,947 DEBUG decors.py Была вызвана функция process_messages c параметрами ({'action': 'presence', 'time': 1599203413.9365156, 'user': {'account_name': 'Client'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-09-04 14:10:13,947 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-04 14:10:13,947 DEBUG server.py Соединение с клиентом ('127.0.0.1', 60994) закрывается.
+2020-09-04 14:10:59,066 INFO server.py Установлено соедение с ПК ('127.0.0.1', 61085)
+2020-09-04 14:10:59,077 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599203459.0656686, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:59,077 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599203459.0656686, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:59,078 DEBUG decors.py Была вызвана функция process_messages c параметрами ({'action': 'presence', 'time': 1599203459.0656686, 'user': {'account_name': 'Client'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-09-04 14:10:59,078 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-04 14:10:59,078 DEBUG server.py Соединение с клиентом ('127.0.0.1', 61085) закрывается.
+2020-09-04 14:10:59,079 INFO server.py Установлено соедение с ПК ('127.0.0.1', 61086)
+2020-09-04 14:10:59,089 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:59,090 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:59,091 DEBUG decors.py Была вызвана функция process_messages c параметрами ({'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-09-04 14:10:59,091 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-04 14:10:59,091 DEBUG server.py Соединение с клиентом ('127.0.0.1', 61086) закрывается.
+2020-09-04 14:10:59,091 INFO server.py Установлено соедение с ПК ('127.0.0.1', 61088)
+2020-09-04 14:10:59,091 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:59,091 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:59,092 DEBUG decors.py Была вызвана функция process_messages c параметрами ({'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-09-04 14:10:59,092 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-04 14:10:59,092 DEBUG server.py Соединение с клиентом ('127.0.0.1', 61088) закрывается.
+2020-09-04 14:10:59,093 INFO server.py Установлено соедение с ПК ('127.0.0.1', 61087)
+2020-09-04 14:10:59,093 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:59,093 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}}
+2020-09-04 14:10:59,094 DEBUG decors.py Была вызвана функция process_messages c параметрами ({'action': 'presence', 'time': 1599203459.0796683, 'user': {'account_name': 'Client'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-09-04 14:10:59,094 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-04 14:10:59,094 DEBUG server.py Соединение с клиентом ('127.0.0.1', 61087) закрывается.

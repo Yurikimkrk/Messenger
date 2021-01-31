@@ -1,0 +1,92 @@
+2020-10-07 14:27:48,034 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:27:48,036 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:27:48,051 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 14:27:48,051 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['C:/Users/User/Projects/MessengerProject/server.py']
+2020-10-07 14:27:48,052 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 14:27:48,209 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 14:28:40,462 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:28:40,462 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:28:40,467 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 14:28:40,467 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['C:/Users/User/Projects/MessengerProject/server.py']
+2020-10-07 14:28:40,467 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 14:28:40,507 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 14:31:36,325 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:31:36,325 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:31:36,327 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 14:31:36,327 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['C:/Users/User/Projects/MessengerProject/server.py']
+2020-10-07 14:31:36,328 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 14:31:36,368 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 14:32:14,278 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:32:14,278 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:32:14,280 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 14:32:14,280 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['C:/Users/User/Projects/MessengerProject/server.py']
+2020-10-07 14:32:14,281 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 14:32:14,319 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 14:32:26,405 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59189)
+2020-10-07 14:32:26,405 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1602055946.405631, 'user': {'account_name': 'ен'}}
+2020-10-07 14:32:26,405 DEBUG core.py Start auth process for {'account_name': 'ен'}
+2020-10-07 14:39:24,087 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:39:24,087 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:39:24,090 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 14:39:24,090 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['C:/Users/User/Projects/MessengerProject/server.py']
+2020-10-07 14:39:24,090 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 14:39:24,120 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 14:39:53,616 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:39:53,617 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:39:53,619 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 14:39:53,620 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['C:/Users/User/Projects/MessengerProject/server.py']
+2020-10-07 14:39:53,620 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 14:39:53,666 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 14:59:02,066 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:59:02,067 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 14:59:02,069 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 14:59:02,069 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['C:/Users/User/Projects/MessengerProject/server.py']
+2020-10-07 14:59:02,070 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 14:59:02,147 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 14:59:27,340 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59242)
+2020-10-07 14:59:27,840 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1602057567.3511283, 'user': {'account_name': 'ке', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1FCWEwQRTG4LPqufoNOQ\nsWLk6FWDOn7pvse1bxLXjhx07pehkHWEEkallGgslgxQ0oJ9qskWPuPbvhuAvcwH\nPye3nc//tDgySiqeOyuQxf5q/IapFFswMs1dwi4uXvRaPI2qNHhy0gPqzvALq3Vh\nap7b9M310OkmyRDay7JbdupO1uncJUTqHAMVuiaOuIgnVIJLFPnc9kiV0jssoMb6\n5hdqMAxNTRX4O9ma5E+eP7u91MiW7brKq7VfaFtJVDeeX8RW6i1wcM7hqmWh11/7\np/1JskfpQhtNy5RjLc5q0aij8GmRWrze/7lAcCYBhqI4STRxXNtPWEEU1Pr67/Zu\nSQIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-10-07 14:59:27,840 DEBUG core.py Start auth process for {'account_name': 'ке', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1FCWEwQRTG4LPqufoNOQ\nsWLk6FWDOn7pvse1bxLXjhx07pehkHWEEkallGgslgxQ0oJ9qskWPuPbvhuAvcwH\nPye3nc//tDgySiqeOyuQxf5q/IapFFswMs1dwi4uXvRaPI2qNHhy0gPqzvALq3Vh\nap7b9M310OkmyRDay7JbdupO1uncJUTqHAMVuiaOuIgnVIJLFPnc9kiV0jssoMb6\n5hdqMAxNTRX4O9ma5E+eP7u91MiW7brKq7VfaFtJVDeeX8RW6i1wcM7hqmWh11/7\np/1JskfpQhtNy5RjLc5q0aij8GmRWrze/7lAcCYBhqI4STRxXNtPWEEU1Pr67/Zu\nSQIDAQAB\n-----END PUBLIC KEY-----'}
+2020-10-07 14:59:27,843 DEBUG core.py Unknown username, sending {'response': 400, 'error': 'Пользователь не зарегистрирован.'}
+2020-10-07 14:59:44,778 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59244)
+2020-10-07 14:59:45,278 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1602057584.788336, 'user': {'account_name': 'Tyr', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnGfoi3u/E4YZjnrfM1aI\ntvzW2NqWqfMxZBAD2i2CSdDIG0g9SXcRK81PSpLhqyK3EZNiANt7p/X5d0EAvrie\n02DRZ7l2MW5gMIS387ZuWMdS2+MopyE0xkv4X+rpvd2p64jNpebctsHHhMOghUtb\nd3D+Qve4vPEPz05yfow9xApE26sd6lmBTHelKOlW1NN3l6o4KonmqnzwJnZWtPVM\n8muBOAZeMiWZazmlNYuQXdSwBE4cncuxcv2wyslep/cPbfcyQXuceao5WqDDqD6t\nXxQmz2YIYcOiHXT3wGDohIu/GbhGFGt9Yryz/EEI1+j5dRXX2L7Luzwfk5tGuS3H\nwwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-10-07 14:59:45,278 DEBUG core.py Start auth process for {'account_name': 'Tyr', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnGfoi3u/E4YZjnrfM1aI\ntvzW2NqWqfMxZBAD2i2CSdDIG0g9SXcRK81PSpLhqyK3EZNiANt7p/X5d0EAvrie\n02DRZ7l2MW5gMIS387ZuWMdS2+MopyE0xkv4X+rpvd2p64jNpebctsHHhMOghUtb\nd3D+Qve4vPEPz05yfow9xApE26sd6lmBTHelKOlW1NN3l6o4KonmqnzwJnZWtPVM\n8muBOAZeMiWZazmlNYuQXdSwBE4cncuxcv2wyslep/cPbfcyQXuceao5WqDDqD6t\nXxQmz2YIYcOiHXT3wGDohIu/GbhGFGt9Yryz/EEI1+j5dRXX2L7Luzwfk5tGuS3H\nwwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-10-07 14:59:45,285 DEBUG core.py Correct username, starting passwd check.
+2020-10-07 14:59:45,288 DEBUG core.py Auth message = {'response': 511, 'bin': 'd97b8fc7d342f9a0fd03f20e4c1eb63fca02544afe56b66acfd48aa0113d38dd565cef535c18ce26394867638afad637095de337d73d14644fe6fc0bae63c570'}
+2020-10-07 14:59:45,830 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1602057585.29067, 'account_name': 'Tyr'}
+2020-10-07 14:59:46,338 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1602057585.8542135, 'user': 'Tyr'}
+2020-10-07 14:59:52,362 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1602057592.1922686, 'account_name': 'Tyr'}
+2020-10-07 14:59:56,374 DEBUG core.py Разбор сообщения от клиента : {'action': 'exit', 'time': 1602057595.9939544, 'account_name': 'Tyr'}
+2020-10-07 14:59:56,374 INFO core.py Клиент ('127.0.0.1', 59244) отключился от сервера.
+2020-10-07 15:01:12,603 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 15:01:12,603 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 15:01:12,605 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 15:01:12,605 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['C:/Users/User/Projects/MessengerProject/server.py']
+2020-10-07 15:01:12,606 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 15:01:12,666 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 15:01:57,298 DEBUG decors.py Была вызвана функция main c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 15:01:57,298 DEBUG decors.py Была вызвана функция config_load c параметрами () , {}. Вызов из модуля __main__
+2020-10-07 15:01:57,300 DEBUG decors.py Была вызвана функция arg_parser c параметрами ('7777', '') , {}. Вызов из модуля __main__
+2020-10-07 15:01:57,300 DEBUG server.py Инициализация парсера аргументов коммандной строки: ['server.py']
+2020-10-07 15:01:57,301 DEBUG server.py Аргументы успешно загружены.
+2020-10-07 15:01:57,338 INFO core.py Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2020-10-07 15:01:59,044 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59248)
+2020-10-07 15:01:59,545 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1602057719.0563233, 'user': {'account_name': 'Dima', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4elxPrXi2TC515fun2//\nC9alciCYFrphla6kOA4iVr7DcB+1NXBPAMJulJt5O3XIgny8yrRRj+kdNJ7jrDe3\nW4RglWS0hzK0OcAdNI7rxu0cAA/WM+FP0RwcjCf5A3QTTU5Z75PLGi1YaQNFe+tc\nfTm2810qq07qP/xeSQv41aS95OFLQYiRo0Vuqa3sV7EVch05bG9ZI8abo30JotDf\nVau4qFJNgCDuwMZWHtTFeWCV+mngW84rWJHcJIm4aQpZRXIcHCxAdvByihv3HxN5\nUeNAca6DmDojd8ye8Se0wj+oRzgTx6HSXrTrq0Ex28+JwVnpSVbJ3c5beAQuTGbC\nWwIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-10-07 15:01:59,545 DEBUG core.py Start auth process for {'account_name': 'Dima', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4elxPrXi2TC515fun2//\nC9alciCYFrphla6kOA4iVr7DcB+1NXBPAMJulJt5O3XIgny8yrRRj+kdNJ7jrDe3\nW4RglWS0hzK0OcAdNI7rxu0cAA/WM+FP0RwcjCf5A3QTTU5Z75PLGi1YaQNFe+tc\nfTm2810qq07qP/xeSQv41aS95OFLQYiRo0Vuqa3sV7EVch05bG9ZI8abo30JotDf\nVau4qFJNgCDuwMZWHtTFeWCV+mngW84rWJHcJIm4aQpZRXIcHCxAdvByihv3HxN5\nUeNAca6DmDojd8ye8Se0wj+oRzgTx6HSXrTrq0Ex28+JwVnpSVbJ3c5beAQuTGbC\nWwIDAQAB\n-----END PUBLIC KEY-----'}
+2020-10-07 15:01:59,548 DEBUG core.py Correct username, starting passwd check.
+2020-10-07 15:01:59,550 DEBUG core.py Auth message = {'response': 511, 'bin': 'a9514d4da1fe824999e3d465ae859e2e038b9d885380d9dc4bd7b1a91bbd2f5b984704d3b5e27ec3e802a3a52784a092641fe521e1ae262a6e5abead000e0a26'}
+2020-10-07 15:01:59,731 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59249)
+2020-10-07 15:01:59,732 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1602057719.550323, 'account_name': 'Dima'}
+2020-10-07 15:01:59,759 INFO core.py Установлено соедение с ПК ('127.0.0.1', 59250)
+2020-10-07 15:01:59,759 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1602057719.7443233, 'user': {'account_name': 'Lena', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnQPZZ6dth0fPGaaaWoZd\nQ0PtS8kwuh/wEgXVlKwUnFS9SfZVuryA/Om8pH5n9e7pnhNRSNWXP/tXuf0/xD1t\nIBVv+wR3bBSNVEpDpBHye4r8y71MnXUmD2lCj2+B8GmDscZhyjQ0w2jC62hkDnMc\nrJ2d73RcJrrTs9OwxCW2YSJ3c79WJVLvNm6C8lUq2BKGperucH1AYlNP1nFJYMyf\n/nNnsFC0VAIw9CyciVSnFnvkHoS/BX8dQX6pwH8/pRe0dDkNtyHpte/Xz0dp/sEL\n6ixljiJHwvaGdIfU1DYC7n9o2XvWDmArXcIhhLJjtDOOuRIgh1k9hGnKqTeuMPFe\nBQIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-10-07 15:01:59,759 DEBUG core.py Start auth process for {'account_name': 'Lena', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnQPZZ6dth0fPGaaaWoZd\nQ0PtS8kwuh/wEgXVlKwUnFS9SfZVuryA/Om8pH5n9e7pnhNRSNWXP/tXuf0/xD1t\nIBVv+wR3bBSNVEpDpBHye4r8y71MnXUmD2lCj2+B8GmDscZhyjQ0w2jC62hkDnMc\nrJ2d73RcJrrTs9OwxCW2YSJ3c79WJVLvNm6C8lUq2BKGperucH1AYlNP1nFJYMyf\n/nNnsFC0VAIw9CyciVSnFnvkHoS/BX8dQX6pwH8/pRe0dDkNtyHpte/Xz0dp/sEL\n6ixljiJHwvaGdIfU1DYC7n9o2XvWDmArXcIhhLJjtDOOuRIgh1k9hGnKqTeuMPFe\nBQIDAQAB\n-----END PUBLIC KEY-----'}
+2020-10-07 15:01:59,762 DEBUG core.py Correct username, starting passwd check.
+2020-10-07 15:01:59,763 DEBUG core.py Auth message = {'response': 511, 'bin': 'b0ccd9e97e408ba08d4a81d4014d30ac03c166e96dea61837c55890b94348e5b4925a6a5379ff2252e2865b83f52c648751a9f4383ab61350508fff3272f2bfa'}
+2020-10-07 15:02:00,286 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1602057719.759323, 'user': 'Dima'}
+2020-10-07 15:02:00,297 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1602057719.764342, 'account_name': 'Lena'}
+2020-10-07 15:02:00,297 DEBUG core.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1602057719.7703242, 'user': {'account_name': 'Oleg', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzmCkZjMvTvTMorCc40Rx\nmHegO56XAPOREx34/aw04ptZPog7EL32K4FbeBYh4DrPAWeoFcB6ZiaijviFe6P9\nyrBT59G0AbJFfD+wPKra2ZLhkk1WOSolMNJT4bZwV7IcpyzVTj1V98N5AdIYZXDf\nFRtRSVQWkYJP63Soq2IaXIzaJLKPraIeINh6RGlLTEdjQmTTsK5+txwso3vn2xd3\n9rO86OjKcPZYtO9YizNuS7WnZUD0VFS6VP7yu0G3VU+iv7d0XvLZiE60Xp7adrwJ\nEl10TeQDZ6whQAkY0BmoXmfC+4BCQRPEZdwnnh33GZKw0qn/NSvScDvlzO3y2Sgv\nKQIDAQAB\n-----END PUBLIC KEY-----'}}
+2020-10-07 15:02:00,297 DEBUG core.py Start auth process for {'account_name': 'Oleg', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzmCkZjMvTvTMorCc40Rx\nmHegO56XAPOREx34/aw04ptZPog7EL32K4FbeBYh4DrPAWeoFcB6ZiaijviFe6P9\nyrBT59G0AbJFfD+wPKra2ZLhkk1WOSolMNJT4bZwV7IcpyzVTj1V98N5AdIYZXDf\nFRtRSVQWkYJP63Soq2IaXIzaJLKPraIeINh6RGlLTEdjQmTTsK5+txwso3vn2xd3\n9rO86OjKcPZYtO9YizNuS7WnZUD0VFS6VP7yu0G3VU+iv7d0XvLZiE60Xp7adrwJ\nEl10TeQDZ6whQAkY0BmoXmfC+4BCQRPEZdwnnh33GZKw0qn/NSvScDvlzO3y2Sgv\nKQIDAQAB\n-----END PUBLIC KEY-----'}
+2020-10-07 15:02:00,300 DEBUG core.py Correct username, starting passwd check.
+2020-10-07 15:02:00,301 DEBUG core.py Auth message = {'response': 511, 'bin': '3dd819eb07bdf14575864096fe6364ec5eac2985b55d4d990adfe161d6990c43488038334496dc02335d286d7a0a71eb62dbf03416f1dd310ffa3a1ca294bbe6'}
+2020-10-07 15:02:00,824 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1602057720.3149621, 'user': 'Lena'}
+2020-10-07 15:02:00,828 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_users', 'time': 1602057720.3029628, 'account_name': 'Oleg'}
+2020-10-07 15:02:01,331 DEBUG core.py Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1602057720.8625052, 'user': 'Oleg'}

@@ -1,0 +1,32 @@
+2020-09-02 17:19:39,277 CRITICAL config_server_log.py Критическая ошибка
+2020-09-02 17:19:39,278 ERROR config_server_log.py Ошибка
+2020-09-02 17:19:39,278 DEBUG config_server_log.py Отладочная информация
+2020-09-02 17:19:39,278 INFO config_server_log.py Информационное сообщение
+2020-09-02 17:58:37,665 CRITICAL config_server_log.py Критическая ошибка
+2020-09-02 17:58:37,665 ERROR config_server_log.py Ошибка
+2020-09-02 17:58:37,665 DEBUG config_server_log.py Отладочная информация
+2020-09-02 17:58:37,665 INFO config_server_log.py Информационное сообщение
+2020-09-02 18:01:17,492 CRITICAL config_server_log.py Критическая ошибка
+2020-09-02 18:01:17,493 ERROR config_server_log.py Ошибка
+2020-09-02 18:01:17,493 DEBUG config_server_log.py Отладочная информация
+2020-09-02 18:01:17,493 INFO config_server_log.py Информационное сообщение
+2020-09-02 18:01:34,675 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51590)
+2020-09-02 18:01:34,676 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599044494.6758714, 'user': {'account_name': 'Client'}}
+2020-09-02 18:01:34,678 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599044494.6758714, 'user': {'account_name': 'Client'}}
+2020-09-02 18:01:34,678 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-02 18:01:34,678 DEBUG server.py Соединение с клиентом ('127.0.0.1', 51590) закрывается.
+2020-09-02 18:01:34,707 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51591)
+2020-09-02 18:01:34,708 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599044494.7079341, 'user': {'account_name': 'Client'}}
+2020-09-02 18:01:34,709 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599044494.7079341, 'user': {'account_name': 'Client'}}
+2020-09-02 18:01:34,709 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-02 18:01:34,709 DEBUG server.py Соединение с клиентом ('127.0.0.1', 51591) закрывается.
+2020-09-02 18:01:34,710 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51592)
+2020-09-02 18:01:34,710 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599044494.7079341, 'user': {'account_name': 'Client'}}
+2020-09-02 18:01:34,711 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599044494.7079341, 'user': {'account_name': 'Client'}}
+2020-09-02 18:01:34,711 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-02 18:01:34,711 DEBUG server.py Соединение с клиентом ('127.0.0.1', 51592) закрывается.
+2020-09-02 18:01:34,716 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51593)
+2020-09-02 18:01:34,717 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1599044494.7169344, 'user': {'account_name': 'Client'}}
+2020-09-02 18:01:34,717 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1599044494.7169344, 'user': {'account_name': 'Client'}}
+2020-09-02 18:01:34,718 INFO server.py Cформирован ответ клиенту {'response': 200}
+2020-09-02 18:01:34,718 DEBUG server.py Соединение с клиентом ('127.0.0.1', 51593) закрывается.
